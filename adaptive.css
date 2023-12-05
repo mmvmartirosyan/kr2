@@ -1,0 +1,16 @@
+
+@media (max-width: 390px) {
+    .navigation {
+        justify-content: left;
+
+    }
+
+    .text1{
+        margin: 0 auto;
+        font-size: 40px;
+    }
+
+    .kar1{
+        text-align: right;
+    }
+}

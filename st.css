@@ -1,0 +1,243 @@
+.nav-tabs{
+    justify-content: end;
+}
+/* основные характеристики */
+.body{
+    padding: 20px;
+}
+.container {
+    margin: 0 auto;
+}
+
+.navigation {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.head {
+    text-align:center;
+    font-size: 180px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.kar1 {
+    margin-top: -60px;
+    text-align: center;
+}
+
+.text{
+    text-align: justify;
+    padding: 100px;
+}
+
+.text1{
+    text-align: justify;
+    padding: 100px;
+    margin-top: -50px;
+}
+
+.dalee {
+    text-align: right;
+}
+
+.text2{
+    margin-top: -200px;
+    padding: 100px;
+    text-align: justify;
+}
+
+.podz{
+    margin-top: -180px;
+    padding: 100px;
+}
+
+.snav{
+    padding: 100px;
+}
+
+.podz1{
+    margin-top: -50px;
+    padding: 100px;
+}
+
+.d-block{
+    width: 600px;
+}
+
+.carousel{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
+
+.figcaption{
+    color: rgba(0, 0, 0, 0.311);
+}
+
+
+/*--------------------форма1------------------------------------*/
+/* Стили для .forma */
+.forma {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    outline: 8px ridge rgba(0, 0, 0, 0.247);
+    border-radius: 2rem;
+    aspect-ratio: 3/4;
+    width: 600px;
+    align: center;
+  }
+
+  /* Стили для h3 */
+  .forma h3 {
+    text-align: center;
+  }
+  
+  /* Стили для form */
+  .forma form {
+    margin-top: 10px;
+  }
+  
+  /* Стили для p */
+  .forma p {
+    margin-bottom: 10px;
+  }
+  
+  /* Стили для input[type="text"], input[type="number"], input[type="password"], textarea, select */
+  .forma input[type="text"],
+  .forma input[type="number"],
+  .forma input[type="password"],
+  .forma textarea,
+  .forma select {
+    width: 100%;
+    padding: 4px;
+    border-radius:10px;
+  }
+  
+  /* Стили для input[type="radio"], input[type="checkbox"] */
+  .forma input[type="radio"],
+  .forma input[type="checkbox"] {
+    /*margin-right-для определения прстранства межбду точкой и текстом*/
+    margin-right: 4px;
+  }
+  
+  /* Стили для textarea */
+  .forma textarea {
+    width: 100%;
+    /*resize-когда можно изменять форму ячейки файла, в данном случае менять ее нельзя*/
+    resize: none;
+  }
+  
+  /* Стили для .buttonf */
+  .forma .buttonf {
+    text-align: center;
+  }
+  
+  /* Стили для button, burron[type="reset"], input[type="submit"] */
+  .forma button,
+  .forma button[type="reset"],
+  .forma input[type="submit"] {
+    padding: 5px 10px;
+    background-color: #6fc8e6;
+    color: #000000;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Стили для button:hover, burron[type="reset"]:hover, input[type="submit"]:hover */
+  .forma button:hover,
+  .forma button[type="reset"]:hover,
+  .forma input[type="submit"]:hover {
+    background-color: #005b80;
+  }
+
+  .kvadrat{
+    height: 350px;
+    width: 250px;
+    border-radius: 1rem;
+    background:#ccc;
+    border-color:#000000;
+    margin-left: 90px;
+    margin-top: -20px;
+  }
+
+.photka{
+  border-radius: 1rem;
+  margin-left: 120px;
+  margin-top: -320px;
+  aspect-ratio: 3/4;
+  max-width: 270px;
+  box-shadow: 0 1.5rem 5rem -0.75rem hsla(0, 0%, 0%, 0.25);
+}
+
+.krug1 {
+  width: 20px;
+  height: 20px;
+  background: #ccc;
+  border-radius: 60px;
+  margin-top:-320px;
+  margin-left: 450px;
+}
+
+.krug2 {
+  width: 20px;
+  height: 20px;
+  background: #ccc;
+  border-radius: 60px;
+  margin-top:30px;
+  margin-left: 450px;
+}
+.krug3 {
+  width: 20px;
+  height: 20px;
+  background: #ccc;
+  border-radius: 60px;
+  margin-top:30px;
+  margin-left: 450px;
+}
+
+.palka1{
+  margin-top: -110px;
+  margin-left: 475px;
+}
+
+.palka2{
+  margin-top: 47px;
+  margin-left:475px;
+}
+
+.palka3{
+  margin-top: 48px;
+  margin-left:475px;
+}
+
+.aboutme1{
+  font-family: 'Mont';
+  font-size: 25px;
+  margin-top: -129px;
+  margin-left: 600px;
+}
+
+.aboutme2{
+  font-family: 'Mont';
+  font-size: 25px;
+  margin-left: 600px;
+  margin-top: -7px;
+}
+
+.aboutme3{
+  font-family: 'Mont';
+  font-size: 25px;
+  margin-left: 600px;
+  margin-top: -7px;
+}
+
+.ind{
+  font-family: 'frankinity';
+  margin-top: -250px;
+  font-size: 40px;
+  margin-left: 60px;
+}
